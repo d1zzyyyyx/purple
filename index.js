@@ -12,7 +12,7 @@ app.listen(port, () =>
 );
 
 const token =
-  "NTIyNzM5OTEwMDI1Njc0NzUz.GCP708.MScqMX8tuloIdfDmfC47IPXETEMlJ8OWFauJBw";
+  "";
 
 const text1 = "I";
 const text2 = "LOVE";
